@@ -16,7 +16,8 @@ public:
             if (nums[i] != i + 1) {
                 return i + 1;
             }
-        }45etgrtg
+        }
+        
         return n + 1;
     }
 };
