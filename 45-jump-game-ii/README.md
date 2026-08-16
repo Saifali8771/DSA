@@ -24,7 +24,7 @@
 <strong>Input:</strong> nums = [2,3,0,1,4]
 <strong>Output:</strong> 2
 </pre>
-eswaghzethjzxt
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
