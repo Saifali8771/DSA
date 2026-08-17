@@ -17,7 +17,7 @@
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> The minimum number of jumps to reach the last index is 2. Jump 1 step from index 0 to 1, then 3 steps to the last index.
 </pre>
-
+gvyutf65w54djg54eaed5ED5Rs6giuoyh
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
