@@ -26,7 +26,7 @@ public:
             current_product *= current_product;
            
             N /= 2;
-        }
+        }GFCVYGUHFYUGUJH
         
         return result;
     }
