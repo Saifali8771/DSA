@@ -13,14 +13,4 @@ public:
         return length;
     }
 }
-swejfianjwifhwaihfc
-QFDOWANLIKM'Q
-    EQNWFKMA
 
-AWOEFNCAPL    KAE;LORFVL
-
-Z';VXMC
-
-SM;LDM
-
-lsdfvl;msd;zfvz
