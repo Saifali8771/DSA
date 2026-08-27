@@ -20,7 +20,7 @@
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
-rdthdgfhftjnfhgn
+
 <pre>
 <strong>Input:</strong> s = &quot;luffy is still joyboy&quot;
 <strong>Output:</strong> 6
