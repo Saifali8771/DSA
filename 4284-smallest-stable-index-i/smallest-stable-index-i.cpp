@@ -21,4 +21,4 @@ public:
 
         return -1;
     }
-};qInhaCOI ahSCIOIJapertu    23
+};
